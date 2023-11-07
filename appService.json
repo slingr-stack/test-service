@@ -1,6 +1,6 @@
 {
     "label": "test",
-    "name": "test",
+    "name": "test-1",
     "apiVersion": "v1",
     "internal": true,
     "configurationType": "GLOBAL",
